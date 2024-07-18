@@ -1,17 +1,13 @@
 
-[![solid](https://github.com/eniac-x-labs/.github/blob/main/profile/dapplink.jpeg)](https://github.com/eniac-x-labs)
+[![solid](https://github.com/solid-rock-security/.github/blob/main/1500x500.jpeg)](https://solidrocklabs.xyz/)
 
 
 ## About Solid Rock Security Labs
 
-#### The 1st Modular and Composable Layer3 AppChain 
-- Mass adoption of dApps on the blockchain
-- In-depth integration of blockchain and AI
+Solid Rock Security Labs focus on Web3 project attack and defense, Web3 project audit and Web3 project security analysis.
 
 
 #### Social
 
-* Website: [https://www.dapplink.xyz/](https://www.dapplink.xyz/)
-* Discord: [https://discord.gg/9N62gJgMVW](https://discord.gg/9N62gJgMVW)
-* Twitter: [https://twitter.com/0xdapplink](https://twitter.com/0xdapplink)
-* Telegram [https://t.me/+qqhy1i-_xnU1M2Jl](https://t.me/+qqhy1i-_xnU1M2Jl)
+* Website: [https://solidrocklabs.xyz/](https://solidrocklabs.xyz/)
+* Twitter: [https://x.com/0xsolidrock](https://x.com/0xsolidrock)
